@@ -22,7 +22,7 @@ const Contact = () => {
     {
       icon: <Linkedin className='w-6 h-6 text-white' />,
       label: 'LinkedIn',
-      link: 'https://linkedin.com/in/fazlomar',
+      link: 'https://linkedin.com/in/muhammed-fazl-omar',
       position: { top: '40%', left: '20%' },
     },
     {
