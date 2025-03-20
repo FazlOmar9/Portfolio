@@ -103,6 +103,13 @@ const projects = [
       technologies: ["Docker", "Linux", "CTFd", "AWS", "DevOps"],
       link: "https://github.com/FazlOmar9/EnXp2"
     },
+    {
+      title: "PCB Defect Detection using Computer Vision",
+      description: "Trained the Yolo v8 model on a custom PCB dataset for detecting manufacturing defects in PCB. The model was trained on a custom dataset of 1500 images. Model detects 6 types of defects.",
+      image: "https://i.imgur.com/DmXBwXz.png",
+      technologies: ["Python", "Computer Vision", "Yolo v8", "PyTorch", "Object Detection"],
+      link: "https://github.com/FazlOmar9/PCB-defect-detection"
+    },
   ];
 
 export default projects;
