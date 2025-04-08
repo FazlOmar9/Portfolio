@@ -34,7 +34,7 @@ const Contact = () => {
     {
       icon: <FileText className='w-6 h-6 text-white' />,
       label: 'Resume',
-      link: 'https://drive.google.com/file/d/1l-OOm9lxURf8JTOmX-X0abuaqPvcybZX/view?usp=sharing',
+      link: 'https://drive.google.com/file/d/1l-OOm9lxURf8JTOmX-X0abuaqPvcybZX/view?usp=sharing', 
       position: { top: '65%', left: '45%' },
     },
   ];
