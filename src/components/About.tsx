@@ -10,7 +10,7 @@ const About = () => {
           <Card
             title='Education Journey.'
             content='Education has always been a mix of fun and frustration, but math never got boring. Solving problems and finding patterns just clicked. That love for logic led me to coding, where every bug is a puzzle to crack.<newline> Scoring in the 97th percentile in JEE Mains got me into the IIIT Nagpur. Once here, I started looking around, exploring, and learning my way—slowly turning my passion into reality by building, breaking, and fixing things with code.'
-            image='https://iiitn.ac.in/images/album/upcoming-campus-photo//16.jpeg'
+            image='./IIIT22.jpg'
             className='md:col-span-2 h-[400px]'
           />
           <div className='md:col-span-1 flex flex-col gap-6'>
