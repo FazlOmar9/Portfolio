@@ -6,7 +6,7 @@ const Home = () => {
         Muhammed Fazl Omar
       </h1>
       <p className="text-xl font-[800] text-white/80">
-        Web | Generative & Agentic AI | Machine Learning | DevOps | Linux
+        Web | AI Agents & Automation | Cloud | Machine Learning | Linux
       </p>
     </section>
   );
