@@ -1,8 +1,9 @@
 import Card from './AboutCard';
+import Carousel from './Carousel';
 
 const About = () => {
   return (
-    <section id='about' className='min-h-screen py-32 px-8'>
+    <section id='about' className='min-h-screen'>
       <div className='max-w-7xl mx-auto'>
         {/* Top section with education */}
         <div className='grid grid-cols-1 md:grid-cols-3 gap-6 mb-6'>
@@ -60,6 +61,9 @@ const About = () => {
             className='md:col-span-1'
           />
         </div>
+      </div>
+      <div className='w-full mt-28 pointer-events-auto'>
+        <Carousel />
       </div>
     </section>
   );

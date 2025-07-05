@@ -1,13 +1,13 @@
 const projects = [
     {
-      title: "Voice Agent for inbound calls",
+      title: "Voice Agent for Inbound calls",
       description: "A Vapi voice agent that handles inbound calls for a company with three businesses under one roof. A cafe, a bar and a barbershop. The agent handles FAQs, availability and reservations for each of the businesses. It is built using Vapi, and Make.com for CRM integration.",
       image: "https://neatnnext-locations-pricelist.s3.ap-south-1.amazonaws.com/Screenshot+2025-07-05+133154.png",
       technologies: ["Vapi", "Make.com", "OpenAI"],
       link: "https://vapi.ai/"
     },
     {
-      title: "Whatsapp bot for laundry services",
+      title: "Whatsapp Bot for laundry services",
       description: "A Whatsapp bot for a laundry service that handles orders, history, edits, updates, user info and more. Built using AWS Lambda for serverless execution and Supabase for database management.",
       image: "https://neatnnext-locations-pricelist.s3.ap-south-1.amazonaws.com/WhatsApp-for-business.png",
       technologies: ["Lambda", "React", "Supabase", "Whatsapp Business Platform"],
@@ -15,7 +15,7 @@ const projects = [
     },
     {
       title: "Twitter Audience Analysis Agent",
-      description: "A Twitter audience analysis tool that provides insights about your twitter audience. It has a user website, an n8n backend with async processing and a python selenium scraper, and uses Groq for LLM inference and Apify for comment extraction. It provides insights like audience demographics, interests, and engagement patterns.",
+      description: "A Twitter audience analysis tool that provides insights about your twitter audience. It has a user website, an n8n backend with async processing and a python selenium scraper. It provides insights like audience demographics and engagement metrics.",
       image: "https://neatnnext-locations-pricelist.s3.ap-south-1.amazonaws.com/Screenshot+2025-06-05+030215.png",
       technologies: ["N8N", "Python Selenium", "Apify", "React", "Meta Llama"],
       link: "chrome://newtab/"
@@ -132,7 +132,7 @@ const projects = [
       link: "https://github.com/FazlOmar9/PCB-defect-detection"
     },
     {
-      title: "AwsUse CLI",
+      title: "AWSUse CLI",
       description: "A Powershell CLI tool for AWS that allows you to switch between multiple AWS accounts on your machine, because Amazon was too lazy to implement it themselves.",
       image: "https://neatnnext-locations-pricelist.s3.ap-south-1.amazonaws.com/Screenshot+2025-07-05+135821.png",
       technologies: ["Powershell", "AWS CLI"],

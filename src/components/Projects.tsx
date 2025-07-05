@@ -1,6 +1,6 @@
-import React, { useMemo } from 'react';
+import { useMemo } from 'react';
+import projects from '../constants/project';
 import ProjectCard from './ProjectCard';
-import projects from '../constants/project'
 
 const Projects = () => {
   const stars = useMemo(() => {
@@ -27,7 +27,6 @@ const Projects = () => {
           />
         ))}
       </div>
-
       {/* Projects grid */}
       <div className="max-w-7xl mx-auto relative">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
