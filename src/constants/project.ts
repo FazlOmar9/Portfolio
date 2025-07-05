@@ -9,7 +9,7 @@ const projects = [
     {
       title: "Whatsapp bot for laundry services",
       description: "A Whatsapp bot for a laundry service that handles orders, history, edits, updates, user info and more. Built using AWS Lambda for serverless execution and Supabase for database management.",
-      image: "https://neatnnext-locations-pricelist.s3.ap-south-1.amazonaws.com/whatsapp-business.webp",
+      image: "https://neatnnext-locations-pricelist.s3.ap-south-1.amazonaws.com/WhatsApp-for-business.png",
       technologies: ["Lambda", "React", "Supabase", "Whatsapp Business Platform"],
       link: "https://wa.me/917972303745"
     },
@@ -132,7 +132,7 @@ const projects = [
       link: "https://github.com/FazlOmar9/PCB-defect-detection"
     },
     {
-      title: "AwsUse - A Powershell CLI tool for AWS",
+      title: "AwsUse CLI",
       description: "A Powershell CLI tool for AWS that allows you to switch between multiple AWS accounts on your machine, because Amazon was too lazy to implement it themselves.",
       image: "https://neatnnext-locations-pricelist.s3.ap-south-1.amazonaws.com/Screenshot+2025-07-05+135821.png",
       technologies: ["Powershell", "AWS CLI"],
