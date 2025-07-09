@@ -1,11 +1,11 @@
 :root {
-	--chat--color-primary: #0f092c;
-	--chat--color-primary-shade-50: #0f092c;
-	--chat--color-primary-shade-100: #0f092c;
+	--chat--color-primary: #0086a8;
+	--chat--color-primary-shade-50: #0086a8;
+	--chat--color-primary-shade-100: #0086a8;
 	--chat--color-secondary: #206bb6;
 	--chat--color-secondary-shade-50: #206bb6;
-	--chat--color-white: #ffffff;
-	--chat--color-light: #f2f4f8;
+	--chat--color-white: #e4f9fb;
+	--chat--color-light: #ffffff;
 	--chat--color-light-shade-50: #e6e9f1;
 	--chat--color-light-shade-100: #c2c5cc;
 	--chat--color-medium: #d2d4d9;
